@@ -5,15 +5,15 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637513452990982660
-    m_Hash: 1277644923
+      ticks: 637522687147680767
+    m_Hash: 150835238
   m_LockFileStatus:
     m_FilePath: D:/UnityProjects/Home/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637513495443407331
+      ticks: 637546145426071164
     m_Hash: 2351046896
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -663,6 +663,7 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -715,6 +716,7 @@ m_PackageAssets:
         - 1.4.4
         - 1.4.5
         - 1.4.6
+        - 1.4.7
         - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
@@ -728,7 +730,7 @@ m_PackageAssets:
         - 1.5.4
         - 1.6.0-pre.1
         - 1.6.0-pre.3
-        verified: 1.4.6
+        verified: 1.4.7
       dependencies:
       - name: com.unity.modules.director
         version: 1.0.0
@@ -2599,8 +2601,18 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
         compatible:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
         verified: 1.0.6
       dependencies: []
@@ -2621,7 +2633,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
