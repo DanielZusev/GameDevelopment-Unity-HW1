@@ -37,7 +37,7 @@ public class Motion : MonoBehaviour
         // Keyboard input
         dx = Input.GetAxis("Horizontal") * speed;
         dz = Input.GetAxis("Vertical") * speed;
-        Vector3 motion = new Vector3(dx, 0, dz);
+        Vector3 motion = new Vector3(dx, -1, dz);
         motion = transform.TransformDirection(motion);
         controller.Move(motion);
     }
